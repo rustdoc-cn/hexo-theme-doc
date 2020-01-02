@@ -2,8 +2,9 @@
 
 这是一个hexo的一个模板，
 
-[hexo官网]: https://hexo.io/zh-cn/
-[hexo文档]: https://hexo.io/zh-cn/docs/
+[hexo官网](https://hexo.io/zh-cn/)
+
+[hexo文档](https://hexo.io/zh-cn/docs/)
 
 # 开始使用
 
